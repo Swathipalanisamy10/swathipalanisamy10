@@ -6,25 +6,27 @@
 
 ---
 
-- 🔭 I have completed: **Cake Shop Website (PHP + MySQL) & Expense Tracker**
-- 🌱 I’m currently learning: **Backend Development & Full-Stack (Node.js, Express, MongoDB)**
-- 💻 I work with: **Frontend Development (HTML, CSS, JavaScript, React)**
-- 👯 I’m open to collaborate on: **Web Development Projects**
+## 💼 Overview
+
+- 🔭 Completed: **Cake Shop Website (PHP + MySQL)** & **Expense Tracker**
+- 🌱 Currently Learning: **Backend Development & Full-Stack (Node.js, Express, MongoDB)**
+- 💻 Working With: **HTML, CSS, JavaScript, React**
+- 👯 Open to collaborate on: **Web Development Projects**
 - 💬 Ask me about: **Frontend Development & UI Design**
-- 📫 How to reach me: **swathipalanisamy04@gmail.com**
-- 😄 Pronouns: She/Her
+- 📫 Reach me at: **swathipalanisamy04@gmail.com**
 - ⚡ Fun fact: I enjoy turning ideas into clean and interactive web interfaces!
+
 ---
 
 ## 🌸 About Me
 
 I am a passionate Frontend Developer who enjoys building responsive and user-friendly web applications.
 
-I have developed projects using HTML, CSS, JavaScript, React, PHP, and MySQL, including a full-stack Cake Shop Website.
+I have developed projects using **HTML, CSS, JavaScript, React, PHP, and MySQL**, including a full-stack Cake Shop Website.
 
-Currently strengthening my backend skills through real-world MERN stack projects.
+Currently, I am strengthening my backend skills through real-world **MERN stack projects**.
 
-🎯 Goal: To start my career as a Frontend / Full-Stack Developer.
+🎯 My goal is to start my career as a **Frontend / Full-Stack Developer** in a growth-oriented company.
 
 ---
 
@@ -32,13 +34,11 @@ Currently strengthening my backend skills through real-world MERN stack projects
 
 ### 🍰 Cake Shop Website
 
-🔗 **Live Demo:**  
-https://swathipalanisamy10.github.io/cake-shop-website/
-
-📂 **Repository:**  
-https://github.com/swathipalanisamy10/cake-shop-website  
+🔗 **Live Demo:** [View Website](https://swathipalanisamy10.github.io/cake-shop-website/)  
+📂 **Repository:** [View Code](https://github.com/swathipalanisamy10/cake-shop-website)
 
 A full-stack cake shop web application built using HTML, CSS, JavaScript, PHP, and MySQL.
+
 ---
 
 ## 🚀 Skills
