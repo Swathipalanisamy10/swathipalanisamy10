@@ -40,7 +40,7 @@ https://swathipalanisamy10.github.io/cake-shop-website/
 📂 Repository:  
 https://github.com/swathipalanisamy10/cake-shop-website
 
-A full-stack cake shop web application built using HTML, CSS, JavaScript, PHP, and MySQL.
+A full-stack cake shop web application built using **HTML, CSS, JavaScript, PHP, and MySQL**.
 ---
 
 ## 🚀 Skills
