@@ -21,5 +21,5 @@ Currently learning MERN Stack and building real-world projects to strengthen my 
 ## 🚀 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,UI&UX,figma,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,figma,git,github,vscode&perline=6" />
 </p>
