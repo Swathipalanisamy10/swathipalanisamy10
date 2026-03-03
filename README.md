@@ -31,9 +31,15 @@ Currently strengthening my backend skills through real-world MERN stack projects
 ## 📌 Featured Project
 
 ### 🍰 Cake Shop Website
-🔗 [View Repository](https://github.com/swathipalanisamy10/cake-shop-website)
+
+🔗 **Live Demo:**  
+https://swathipalanisamy10.github.io/cake-shop-website/
+
+📂 **Repository:**  
+https://github.com/swathipalanisamy10/cake-shop-website  
 
 A full-stack cake shop web application built using HTML, CSS, JavaScript, PHP, and MySQL.
+---
 
 ## 🚀 Skills
 
