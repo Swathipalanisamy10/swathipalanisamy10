@@ -6,15 +6,14 @@
 
 ---
 
-- 🔭 I’m currently working on: **Full-Stack Expense Tracker & Cake Shop Website**
-- 🌱 I’m currently learning: **MERN Stack (MongoDB, Express, React, Node.js)**
-- 👯 I’m looking to collaborate on: **Web Development Projects**
-- 🤔 I’m looking for help with: **Backend optimization & best practices**
-- 💬 Ask me about: **HTML, CSS, JavaScript, React**
+- 🔭 I have completed: **Cake Shop Website (PHP + MySQL) & Expense Tracker**
+- 🌱 I’m currently learning: **Backend Development & Full-Stack (Node.js, Express, MongoDB)**
+- 💻 Strong in: **Frontend Development (HTML, CSS, JavaScript, React)**
+- 👯 I’m open to collaborate on: **Web Development Projects**
+- 💬 Ask me about: **Frontend Development & UI Design**
 - 📫 How to reach me: **swathipalanisamy04@gmail.com**
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love designing clean and user-friendly web interfaces!
-
+- ⚡ Fun fact: I enjoy turning ideas into clean and interactive web interfaces!
 ---
 
 ## 🌸 About Me
