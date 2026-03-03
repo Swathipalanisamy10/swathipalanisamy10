@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Swathi Palanisamy
 
-<!--
-**Swathipalanisamy10/swathipalanisamy10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year CSE Student – Kangeyam Institute of Technology  
+💻 Frontend Developer | Full-Stack Learner  
+📍 Tiruppur, Tamil Nadu  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 About Me
+
+I am a passionate Frontend Developer who enjoys building responsive and user-friendly web applications.
+
+I have built projects using HTML, CSS, JavaScript, React, PHP, and MySQL including a full-stack Cake Shop Website.
+
+Currently learning MERN Stack and building real-world projects to strengthen my backend skills.
+
+🎯 Goal: To start my career as a Frontend / Full-Stack Developer.
+
+---
+
+## 🚀 Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,git,github,vscode&perline=6" />
+</p>
