@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Swathi Palanisamy
 
-🎓 Final Year CSE Student – Kangeyam Institute of Technology  
+🎓 CSE Student – Kangeyam Institute of Technology  
 💻 Frontend Developer | Full-Stack Learner  
 📍 Tiruppur, Tamil Nadu  
 
