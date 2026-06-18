@@ -46,5 +46,5 @@ A full-stack cake shop web application built using **HTML, CSS, JavaScript, PHP,
 ## 🚀 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,figma,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,figma,postman,git,github,vscode&perline=6" />
 </p>
