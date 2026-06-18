@@ -10,7 +10,7 @@
 
 - 🔭 Completed: **Cake Shop Website (PHP & MySQL)** and **Expense Tracker**
 - 🌱 Currently Learning: **Backend Development (Node.js, Express, MongoDB)**
-- 💻 Working With: **HTML, CSS, JavaScript, React**
+- 💻 Working With: **HTML, CSS, JavaScript, React,UI&UX**
 - 👯 Open to Collaborate On: **Web Development Projects**
 - 💬 Ask Me About: **Frontend Development & UI Design**
 - 📫 Email: **swathipalanisamy04@gmail.com**
